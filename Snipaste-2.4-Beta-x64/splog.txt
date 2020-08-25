@@ -1,0 +1,354 @@
+[2020-06-10 14:27:11.354] [I] ***************************************************************
+[2020-06-10 14:27:11.354] [I] Snipaste 2.4.0-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-06-10 14:27:11.354] [I] OS: Windows 10 (10.0) [10.0.18362]
+[2020-06-10 14:27:11.354] [I] Cores: 8
+[2020-06-10 14:27:11.354] [I] Elevated: false
+[2020-06-10 14:27:11.354] [I] Main thread id: 0x334c
+[2020-06-10 14:27:11.354] [I] Log level: 2
+[2020-06-10 14:27:11.354] [I] Application dir: G:/前端软件/Snipaste-2.4-Beta-x64
+[2020-06-10 14:27:11.354] [I] Working dir: G:/前端软件/Snipaste-2.4-Beta-x64
+[2020-06-10 14:27:11.354] [I] Config: G:/前端软件/Snipaste-2.4-Beta-x64/config.ini
+[2020-06-10 14:27:11.354] [I] Library paths: (G:/前端软件/Snipaste-2.4-Beta-x64)
+[2020-06-10 14:27:11.354] [I] Screen scale: 1.5
+[2020-06-10 14:27:11.354] [I] Retina factor: 1
+[2020-06-10 14:27:11.354] [I] Screens: 1
+[2020-06-10 14:27:11.354] [I]     QRect(0, 0, 1920 x 1080), DPI = 144 , DPR = 1
+[2020-06-10 14:27:11.364] [I] Desktops: 1
+[2020-06-10 14:27:11.364] [I] About to import settings from: G:/前端软件/Snipaste-2.4-Beta-x64/config.ini
+[2020-06-10 14:27:11.369] [I] Settings imported
+[2020-06-10 14:27:11.389] [I] Breakpad initialized
+[2020-06-10 14:27:11.400] [I] Process priority: 1
+[2020-06-10 14:27:11.400] [I] Initializing Snipaste...
+[2020-06-10 14:27:11.659] [I] Prefetch...
+[2020-06-10 14:27:11.674] [I] Load default ssl configuration: 15 ms
+[2020-06-10 14:27:11.681] [I] Preloaded 20 files: 31 ms
+[2020-06-10 14:27:11.705] [I] About to apply settings...
+[2020-06-10 14:27:11.744] [I] Settings applied
+[2020-06-10 14:27:11.751] [I] Log level set to: 2
+[2020-06-10 14:27:11.772] [I] History dir: G:/前端软件/Snipaste-2.4-Beta-x64/history
+[2020-06-10 14:27:11.773] [W] Failed to open history file "G:/前端软件/Snipaste-2.4-Beta-x64/history/.sp0" for reading
+[2020-06-10 14:27:11.773] [I] Add group
+[2020-06-10 14:27:11.822] [I] Request to switch to group 0
+[2020-06-10 14:27:11.850] [I] About to restore pasters...
+[2020-06-10 14:27:11.850] [I] Group 0 [18GDDP]: "默认"
+[2020-06-10 14:27:11.850] [I] Record version: 180
+[2020-06-10 14:27:11.850] [I] To restore: 0
+[2020-06-10 14:27:11.850] [I] Pasters touched
+[2020-06-10 14:27:11.850] [I] All pasters activated: true
+[2020-06-10 14:27:11.874] [I] Unref images: 0 (0 removed)
+[2020-06-10 14:27:11.876] [I] Unref dirs: 0 (0 removed)
+[2020-06-10 14:27:11.881] [I] Empty history info files: 0 (0 removed)
+[2020-06-10 14:27:11.881] [I] Pasters restored
+[2020-06-10 14:27:11.882] [I] Launch time: 531 ms
+[2020-06-10 14:27:23.842] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-06-10 14:27:24.510] [I] Quit from tray menu
+[2020-06-10 14:27:24.574] [I] Snipaste: normal exit
+[2020-06-10 14:27:24.574] [I] Snipper: destructed
+[2020-06-10 14:27:24.590] [I] Exit: 0
+
+
+[2020-06-10 14:28:57.168] [I] ***************************************************************
+[2020-06-10 14:28:57.168] [I] Snipaste 2.4.0-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-06-10 14:28:57.168] [I] OS: Windows 10 (10.0) [10.0.18362]
+[2020-06-10 14:28:57.168] [I] Cores: 8
+[2020-06-10 14:28:57.168] [I] Elevated: false
+[2020-06-10 14:28:57.168] [I] Main thread id: 0x14f8
+[2020-06-10 14:28:57.168] [I] Log level: 2
+[2020-06-10 14:28:57.168] [I] Application dir: G:/前端软件/Snipaste-2.4-Beta-x64
+[2020-06-10 14:28:57.168] [I] Working dir: G:/前端软件/Snipaste-2.4-Beta-x64
+[2020-06-10 14:28:57.168] [I] Config: G:/前端软件/Snipaste-2.4-Beta-x64/config.ini
+[2020-06-10 14:28:57.168] [I] Library paths: (G:/前端软件/Snipaste-2.4-Beta-x64)
+[2020-06-10 14:28:57.168] [I] Screen scale: 1.5
+[2020-06-10 14:28:57.168] [I] Retina factor: 1
+[2020-06-10 14:28:57.168] [I] Screens: 1
+[2020-06-10 14:28:57.168] [I]     QRect(0, 0, 1920 x 1080), DPI = 144 , DPR = 1
+[2020-06-10 14:28:57.178] [I] Desktops: 1
+[2020-06-10 14:28:57.178] [I] About to import settings from: G:/前端软件/Snipaste-2.4-Beta-x64/config.ini
+[2020-06-10 14:28:57.257] [I] Settings imported
+[2020-06-10 14:28:57.259] [I] Breakpad initialized
+[2020-06-10 14:28:57.263] [I] Process priority: 1
+[2020-06-10 14:28:57.263] [I] Initializing Snipaste...
+[2020-06-10 14:28:57.452] [I] Prefetch...
+[2020-06-10 14:28:57.464] [I] Load default ssl configuration: 16 ms
+[2020-06-10 14:28:57.473] [I] Preloaded 20 files: 32 ms
+[2020-06-10 14:28:57.492] [I] About to apply settings...
+[2020-06-10 14:28:57.523] [I] Settings applied
+[2020-06-10 14:28:57.529] [I] Log level set to: 2
+[2020-06-10 14:28:57.554] [I] History dir: G:/前端软件/Snipaste-2.4-Beta-x64/history
+[2020-06-10 14:28:57.555] [I] Header version: 180
+[2020-06-10 14:28:57.555] [I] About to restore pasters...
+[2020-06-10 14:28:57.555] [I] Group 0 [18GDDP]: "默认"
+[2020-06-10 14:28:57.555] [I] Record version: 180
+[2020-06-10 14:28:57.555] [I] To restore: 0
+[2020-06-10 14:28:57.555] [I] Pasters touched
+[2020-06-10 14:28:57.555] [I] All pasters activated: true
+[2020-06-10 14:28:57.587] [I] Unref images: 0 (0 removed)
+[2020-06-10 14:28:57.588] [I] Unref dirs: 0 (0 removed)
+[2020-06-10 14:28:57.592] [I] Empty history info files: 0 (0 removed)
+[2020-06-10 14:28:57.592] [I] Pasters restored
+[2020-06-10 14:28:57.592] [I] Launch time: 422 ms
+[2020-06-10 14:29:07.113] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-06-10 14:29:31.458] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-06-10 14:29:32.030] [I] Quit from tray menu
+[2020-06-10 14:29:32.092] [I] Snipaste: normal exit
+[2020-06-10 14:29:32.093] [I] Snipper: destructed
+[2020-06-10 14:29:32.107] [I] Exit: 0
+
+
+[2020-06-10 14:29:33.788] [I] ***************************************************************
+[2020-06-10 14:29:33.788] [I] Snipaste 2.4.0-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-06-10 14:29:33.788] [I] OS: Windows 10 (10.0) [10.0.18362]
+[2020-06-10 14:29:33.788] [I] Cores: 8
+[2020-06-10 14:29:33.788] [I] Elevated: false
+[2020-06-10 14:29:33.788] [I] Main thread id: 0x3808
+[2020-06-10 14:29:33.788] [I] Log level: 2
+[2020-06-10 14:29:33.788] [I] Application dir: G:/前端软件/Snipaste-2.4-Beta-x64
+[2020-06-10 14:29:33.789] [I] Working dir: G:/前端软件/Snipaste-2.4-Beta-x64
+[2020-06-10 14:29:33.789] [I] Config: G:/前端软件/Snipaste-2.4-Beta-x64/config.ini
+[2020-06-10 14:29:33.789] [I] Library paths: (G:/前端软件/Snipaste-2.4-Beta-x64)
+[2020-06-10 14:29:33.789] [I] Screen scale: 1.5
+[2020-06-10 14:29:33.789] [I] Retina factor: 1
+[2020-06-10 14:29:33.789] [I] Screens: 1
+[2020-06-10 14:29:33.789] [I]     QRect(0, 0, 1920 x 1080), DPI = 144 , DPR = 1
+[2020-06-10 14:29:33.799] [I] Desktops: 1
+[2020-06-10 14:29:33.799] [I] About to import settings from: G:/前端软件/Snipaste-2.4-Beta-x64/config.ini
+[2020-06-10 14:29:33.869] [I] Settings imported
+[2020-06-10 14:29:33.871] [I] Breakpad initialized
+[2020-06-10 14:29:33.876] [I] Process priority: 1
+[2020-06-10 14:29:33.876] [I] Initializing Snipaste...
+[2020-06-10 14:29:34.070] [I] Prefetch...
+[2020-06-10 14:29:34.082] [I] Load default ssl configuration: 16 ms
+[2020-06-10 14:29:34.092] [I] Preloaded 20 files: 16 ms
+[2020-06-10 14:29:34.113] [I] About to apply settings...
+[2020-06-10 14:29:34.144] [I] Settings applied
+[2020-06-10 14:29:34.152] [I] Log level set to: 2
+[2020-06-10 14:29:34.174] [I] History dir: G:/前端软件/Snipaste-2.4-Beta-x64/history
+[2020-06-10 14:29:34.175] [I] Header version: 180
+[2020-06-10 14:29:34.175] [I] About to restore pasters...
+[2020-06-10 14:29:34.176] [I] Group 0 [18GDDP]: "默认"
+[2020-06-10 14:29:34.176] [I] Record version: 180
+[2020-06-10 14:29:34.176] [I] To restore: 0
+[2020-06-10 14:29:34.176] [I] Pasters touched
+[2020-06-10 14:29:34.176] [I] All pasters activated: true
+[2020-06-10 14:29:34.198] [I] Unref images: 0 (0 removed)
+[2020-06-10 14:29:34.199] [I] Unref dirs: 0 (0 removed)
+[2020-06-10 14:29:34.202] [I] Empty history info files: 0 (0 removed)
+[2020-06-10 14:29:34.202] [I] Pasters restored
+[2020-06-10 14:29:34.202] [I] Launch time: 412 ms
+[2020-06-10 14:29:38.760] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-06-10 14:29:39.425] [I] Restart from tray menu
+[2020-06-10 14:29:39.429] [I] About to restart...
+[2020-06-10 14:29:39.493] [I] Snipaste: normal exit
+[2020-06-10 14:29:39.493] [I] Snipper: destructed
+[2020-06-10 14:29:39.506] [I] Restart soon: [0] G:/前端软件/Snipaste-2.4-Beta-x64/Snipaste.exe 
+
+
+[2020-06-10 14:29:39.786] [I] ***************************************************************
+[2020-06-10 14:29:39.786] [I] Snipaste 2.4.0-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-06-10 14:29:39.786] [I] OS: Windows 10 (10.0) [10.0.18362]
+[2020-06-10 14:29:39.786] [I] Cores: 8
+[2020-06-10 14:29:39.786] [I] Elevated: false
+[2020-06-10 14:29:39.786] [I] Main thread id: 0x343c
+[2020-06-10 14:29:39.786] [I] Log level: 2
+[2020-06-10 14:29:39.786] [I] Application dir: G:/前端软件/Snipaste-2.4-Beta-x64
+[2020-06-10 14:29:39.786] [I] Working dir: G:/前端软件/Snipaste-2.4-Beta-x64
+[2020-06-10 14:29:39.786] [I] Config: G:/前端软件/Snipaste-2.4-Beta-x64/config.ini
+[2020-06-10 14:29:39.786] [I] Library paths: (G:/前端软件/Snipaste-2.4-Beta-x64)
+[2020-06-10 14:29:39.786] [I] Screen scale: 1.5
+[2020-06-10 14:29:39.786] [I] Retina factor: 1
+[2020-06-10 14:29:39.786] [I] Screens: 1
+[2020-06-10 14:29:39.786] [I]     QRect(0, 0, 1920 x 1080), DPI = 144 , DPR = 1
+[2020-06-10 14:29:39.796] [I] Desktops: 1
+[2020-06-10 14:29:39.796] [I] About to import settings from: G:/前端软件/Snipaste-2.4-Beta-x64/config.ini
+[2020-06-10 14:29:39.868] [I] Settings imported
+[2020-06-10 14:29:39.873] [I] Breakpad initialized
+[2020-06-10 14:29:39.878] [I] Process priority: 1
+[2020-06-10 14:29:39.878] [I] Initializing Snipaste...
+[2020-06-10 14:29:40.072] [I] Prefetch...
+[2020-06-10 14:29:40.083] [I] Load default ssl configuration: 0 ms
+[2020-06-10 14:29:40.095] [I] Preloaded 20 files: 15 ms
+[2020-06-10 14:29:40.115] [I] About to apply settings...
+[2020-06-10 14:29:40.144] [I] Settings applied
+[2020-06-10 14:29:40.150] [I] Log level set to: 2
+[2020-06-10 14:29:40.177] [I] History dir: G:/前端软件/Snipaste-2.4-Beta-x64/history
+[2020-06-10 14:29:40.178] [I] Header version: 180
+[2020-06-10 14:29:40.178] [I] About to restore pasters...
+[2020-06-10 14:29:40.178] [I] Group 0 [18GDDP]: "默认"
+[2020-06-10 14:29:40.178] [I] Record version: 180
+[2020-06-10 14:29:40.178] [I] To restore: 0
+[2020-06-10 14:29:40.178] [I] Pasters touched
+[2020-06-10 14:29:40.178] [I] All pasters activated: true
+[2020-06-10 14:29:40.201] [I] Unref images: 0 (0 removed)
+[2020-06-10 14:29:40.202] [I] Unref dirs: 0 (0 removed)
+[2020-06-10 14:29:40.205] [I] Empty history info files: 0 (0 removed)
+[2020-06-10 14:29:40.205] [I] Pasters restored
+[2020-06-10 14:29:40.205] [I] Launch time: 422 ms
+[2020-06-10 14:29:42.104] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-06-10 14:29:42.838] [I] Quit from tray menu
+[2020-06-10 14:29:42.899] [I] Snipaste: normal exit
+[2020-06-10 14:29:42.899] [I] Snipper: destructed
+[2020-06-10 14:29:42.914] [I] Exit: 0
+
+
+[2020-06-10 14:29:44.684] [I] ***************************************************************
+[2020-06-10 14:29:44.684] [I] Snipaste 2.4.0-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-06-10 14:29:44.684] [I] OS: Windows 10 (10.0) [10.0.18362]
+[2020-06-10 14:29:44.684] [I] Cores: 8
+[2020-06-10 14:29:44.684] [I] Elevated: false
+[2020-06-10 14:29:44.684] [I] Main thread id: 0x365c
+[2020-06-10 14:29:44.684] [I] Log level: 2
+[2020-06-10 14:29:44.684] [I] Application dir: G:/前端软件/Snipaste-2.4-Beta-x64
+[2020-06-10 14:29:44.684] [I] Working dir: G:/前端软件/Snipaste-2.4-Beta-x64
+[2020-06-10 14:29:44.684] [I] Config: G:/前端软件/Snipaste-2.4-Beta-x64/config.ini
+[2020-06-10 14:29:44.684] [I] Library paths: (G:/前端软件/Snipaste-2.4-Beta-x64)
+[2020-06-10 14:29:44.684] [I] Screen scale: 1.5
+[2020-06-10 14:29:44.684] [I] Retina factor: 1
+[2020-06-10 14:29:44.684] [I] Screens: 1
+[2020-06-10 14:29:44.684] [I]     QRect(0, 0, 1920 x 1080), DPI = 144 , DPR = 1
+[2020-06-10 14:29:44.693] [I] Desktops: 1
+[2020-06-10 14:29:44.693] [I] About to import settings from: G:/前端软件/Snipaste-2.4-Beta-x64/config.ini
+[2020-06-10 14:29:44.765] [I] Settings imported
+[2020-06-10 14:29:44.770] [I] Breakpad initialized
+[2020-06-10 14:29:44.786] [I] Process priority: 1
+[2020-06-10 14:29:44.786] [I] Initializing Snipaste...
+[2020-06-10 14:29:44.977] [I] Prefetch...
+[2020-06-10 14:29:44.988] [I] Load default ssl configuration: 0 ms
+[2020-06-10 14:29:44.999] [I] Preloaded 20 files: 15 ms
+[2020-06-10 14:29:45.017] [I] About to apply settings...
+[2020-06-10 14:29:45.048] [I] Settings applied
+[2020-06-10 14:29:45.055] [I] Log level set to: 2
+[2020-06-10 14:29:45.078] [I] History dir: G:/前端软件/Snipaste-2.4-Beta-x64/history
+[2020-06-10 14:29:45.079] [I] Header version: 180
+[2020-06-10 14:29:45.079] [I] About to restore pasters...
+[2020-06-10 14:29:45.079] [I] Group 0 [18GDDP]: "默认"
+[2020-06-10 14:29:45.079] [I] Record version: 180
+[2020-06-10 14:29:45.079] [I] To restore: 0
+[2020-06-10 14:29:45.079] [I] Pasters touched
+[2020-06-10 14:29:45.079] [I] All pasters activated: true
+[2020-06-10 14:29:45.101] [I] Unref images: 0 (0 removed)
+[2020-06-10 14:29:45.103] [I] Unref dirs: 0 (0 removed)
+[2020-06-10 14:29:45.106] [I] Empty history info files: 0 (0 removed)
+[2020-06-10 14:29:45.106] [I] Pasters restored
+[2020-06-10 14:29:45.106] [I] Launch time: 423 ms
+[2020-06-10 14:29:48.448] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-06-10 14:29:49.019] [I] Quit from tray menu
+[2020-06-10 14:29:49.079] [I] Snipaste: normal exit
+[2020-06-10 14:29:49.080] [I] Snipper: destructed
+[2020-06-10 14:29:49.094] [I] Exit: 0
+
+
+[2020-06-10 14:29:51.025] [I] ***************************************************************
+[2020-06-10 14:29:51.025] [I] Snipaste 2.4.0-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-06-10 14:29:51.025] [I] OS: Windows 10 (10.0) [10.0.18362]
+[2020-06-10 14:29:51.025] [I] Cores: 8
+[2020-06-10 14:29:51.025] [I] Elevated: false
+[2020-06-10 14:29:51.025] [I] Main thread id: 0x3bf0
+[2020-06-10 14:29:51.025] [I] Log level: 2
+[2020-06-10 14:29:51.025] [I] Application dir: G:/前端软件/Snipaste-2.4-Beta-x64
+[2020-06-10 14:29:51.025] [I] Working dir: G:/前端软件/Snipaste-2.4-Beta-x64
+[2020-06-10 14:29:51.025] [I] Config: G:/前端软件/Snipaste-2.4-Beta-x64/config.ini
+[2020-06-10 14:29:51.025] [I] Library paths: (G:/前端软件/Snipaste-2.4-Beta-x64)
+[2020-06-10 14:29:51.025] [I] Screen scale: 1.5
+[2020-06-10 14:29:51.025] [I] Retina factor: 1
+[2020-06-10 14:29:51.025] [I] Screens: 1
+[2020-06-10 14:29:51.025] [I]     QRect(0, 0, 1920 x 1080), DPI = 144 , DPR = 1
+[2020-06-10 14:29:51.037] [I] Desktops: 1
+[2020-06-10 14:29:51.037] [I] About to import settings from: G:/前端软件/Snipaste-2.4-Beta-x64/config.ini
+[2020-06-10 14:29:51.106] [I] Settings imported
+[2020-06-10 14:29:51.108] [I] Breakpad initialized
+[2020-06-10 14:29:51.113] [I] Process priority: 1
+[2020-06-10 14:29:51.113] [I] Initializing Snipaste...
+[2020-06-10 14:29:51.301] [I] Prefetch...
+[2020-06-10 14:29:51.312] [I] Load default ssl configuration: 0 ms
+[2020-06-10 14:29:51.323] [I] Preloaded 20 files: 17 ms
+[2020-06-10 14:29:51.340] [I] About to apply settings...
+[2020-06-10 14:29:51.372] [I] Settings applied
+[2020-06-10 14:29:51.379] [I] Log level set to: 2
+[2020-06-10 14:29:51.400] [I] History dir: G:/前端软件/Snipaste-2.4-Beta-x64/history
+[2020-06-10 14:29:51.400] [I] Header version: 180
+[2020-06-10 14:29:51.401] [I] About to restore pasters...
+[2020-06-10 14:29:51.401] [I] Group 0 [18GDDP]: "默认"
+[2020-06-10 14:29:51.401] [I] Record version: 180
+[2020-06-10 14:29:51.401] [I] To restore: 0
+[2020-06-10 14:29:51.401] [I] Pasters touched
+[2020-06-10 14:29:51.401] [I] All pasters activated: true
+[2020-06-10 14:29:51.424] [I] Unref images: 0 (0 removed)
+[2020-06-10 14:29:51.426] [I] Unref dirs: 0 (0 removed)
+[2020-06-10 14:29:51.428] [I] Empty history info files: 0 (0 removed)
+[2020-06-10 14:29:51.428] [I] Pasters restored
+[2020-06-10 14:29:51.429] [I] Launch time: 409 ms
+[2020-06-10 14:29:53.201] [I] Parsing command arguments [0]: (sp, snip)
+[2020-06-10 14:29:53.202] [I] Snip request: 0 (dest: 0)
+[2020-06-10 14:29:53.202] [I] Snipper: preparing...
+[2020-06-10 14:29:53.241] [I] Screens: 1
+[2020-06-10 14:29:53.241] [I]     QRect(0, 0, 1920 x 1080), DPI = 144 , DPR = 1
+[2020-06-10 14:29:53.241] [I] Desktop: QRect(0, 0, 1920 x 1080)
+[2020-06-10 14:29:53.241] [I] Background size: QSize(1920, 1080)
+[2020-06-10 14:29:53.248] [I] Focus set
+[2020-06-10 14:29:53.249] [I] Snipper: preparation done (0)
+[2020-06-10 14:29:53.250] [I] Snipper: about to appear...
+[2020-06-10 14:29:53.250] [I] Snipper: prepare to show...
+[2020-06-10 14:29:53.253] [I] Snipper: shown
+[2020-06-10 14:29:53.268] [I] Snipper: focus in
+[2020-06-10 14:29:53.268] [I] Snipper: ready [0.065 s]
+[2020-06-10 14:29:53.928] [I] Screenshot (0, 0, 1920 x 1020) destination: none
+[2020-06-10 14:29:53.928] [I] Snipper: about to quit...
+[2020-06-10 14:29:53.934] [I] Snipper: focus out [3]
+[2020-06-10 14:29:53.936] [I] Snipper: hidden
+[2020-06-10 14:29:53.937] [I] Snipper: quit
+[2020-06-10 14:30:53.120] [I] Silent feed checking finished
+[2020-06-10 14:30:53.120] [I] No available update
+[2020-06-10 14:31:08.919] [I] Parsing command arguments [0]: (sp, snip)
+[2020-06-10 14:31:08.919] [I] Snip request: 0 (dest: 0)
+[2020-06-10 14:31:08.919] [I] Snipper: preparing...
+[2020-06-10 14:31:08.968] [I] Screens: 1
+[2020-06-10 14:31:08.968] [I]     QRect(0, 0, 1920 x 1080), DPI = 144 , DPR = 1
+[2020-06-10 14:31:08.968] [I] Desktop: QRect(0, 0, 1920 x 1080)
+[2020-06-10 14:31:08.968] [I] Background size: QSize(1920, 1080)
+[2020-06-10 14:31:08.974] [I] Focus se[2020-06-10 18:06:28.228] [I] ***************************************************************
+[2020-06-10 18:06:28.228] [I] Snipaste 2.4.0-Beta x64 (Desktop) (Qt 5.12.6)
+[2020-06-10 18:06:28.228] [I] OS: Windows 10 (10.0) [10.0.18362]
+[2020-06-10 18:06:28.228] [I] Cores: 8
+[2020-06-10 18:06:28.228] [I] Elevated: false
+[2020-06-10 18:06:28.228] [I] Main thread id: 0x21bc
+[2020-06-10 18:06:28.228] [I] Log level: 2
+[2020-06-10 18:06:28.228] [I] Application dir: F:/前端软件/Snipaste-2.4-Beta-x64
+[2020-06-10 18:06:28.228] [I] Working dir: F:/前端软件/Snipaste-2.4-Beta-x64
+[2020-06-10 18:06:28.228] [I] Config: F:/前端软件/Snipaste-2.4-Beta-x64/config.ini
+[2020-06-10 18:06:28.228] [I] Library paths: (F:/前端软件/Snipaste-2.4-Beta-x64)
+[2020-06-10 18:06:28.228] [I] Screen scale: 1.5
+[2020-06-10 18:06:28.228] [I] Retina factor: 1
+[2020-06-10 18:06:28.228] [I] Screens: 1
+[2020-06-10 18:06:28.228] [I]     QRect(0, 0, 1920 x 1080), DPI = 144 , DPR = 1
+[2020-06-10 18:06:28.239] [I] Desktops: 1
+[2020-06-10 18:06:28.239] [I] About to import settings from: F:/前端软件/Snipaste-2.4-Beta-x64/config.ini
+[2020-06-10 18:06:28.314] [I] Settings imported
+[2020-06-10 18:06:28.316] [I] Breakpad initialized
+[2020-06-10 18:06:28.323] [I] Process priority: 1
+[2020-06-10 18:06:28.323] [I] Initializing Snipaste...
+[2020-06-10 18:06:28.545] [I] Prefetch...
+[2020-06-10 18:06:28.557] [I] Load default ssl configuration: 11 ms
+[2020-06-10 18:06:28.590] [I] Preloaded 20 files: 44 ms
+[2020-06-10 18:06:28.597] [I] About to apply settings...
+[2020-06-10 18:06:28.635] [I] Settings applied
+[2020-06-10 18:06:28.642] [I] Log level set to: 2
+[2020-06-10 18:06:28.665] [I] History dir: F:/前端软件/Snipaste-2.4-Beta-x64/history
+[2020-06-10 18:06:28.668] [I] Header version: 180
+[2020-06-10 18:06:28.670] [I] About to restore pasters...
+[2020-06-10 18:06:28.670] [I] Group 0 [18GDDP]: "默认"
+[2020-06-10 18:06:28.670] [I] Record version: 180
+[2020-06-10 18:06:28.670] [I] To restore: 0
+[2020-06-10 18:06:28.671] [I] Pasters touched
+[2020-06-10 18:06:28.671] [I] All pasters activated: true
+[2020-06-10 18:06:28.786] [I] Unref images: 1 (1 removed)
+[2020-06-10 18:06:28.787] [I] Unref dirs: 0 (0 removed)
+[2020-06-10 18:06:28.787] [I] Empty history info files: 0 (0 removed)
+[2020-06-10 18:06:28.787] [I] Pasters restored
+[2020-06-10 18:06:28.789] [I] Launch time: 564 ms
+[2020-06-10 18:07:03.286] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2020-06-10 18:07:03.916] [I] Quit from tray menu
+[2020-06-10 18:07:03.970] [I] Snipaste: normal exit
+[2020-06-10 18:07:03.970] [I] Snipper: destructed
+[2020-06-10 18:07:03.998] [I] Exit: 0
+
+
